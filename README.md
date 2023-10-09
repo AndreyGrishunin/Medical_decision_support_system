@@ -12,7 +12,7 @@ The application "Application for Diagnosis based on Decision Theory using Fuzzy 
 -**Users with different access levels: ** There are users with different roles and sets of functionality in the system.
 - **Intuitive user interface:** Provides a clear user interface for entering relevant data for diagnostics and viewing results.
 
-### Предварительные требования
+## Preliminary requirements
 
 Before using the application, make sure that you have the following prerequisites installed:
 
