@@ -1,0 +1,350 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{06E72E28-9A4A-4104-9EA9-CF8C03A819E8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MESysWin</RootNamespace>
+    <AssemblyName>MESysWin</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.SQLite, Version=1.0.105.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Core.1.0.105.0\lib\net451\System.Data.SQLite.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.SQLite.EF6, Version=1.0.105.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.EF6.1.0.105.0\lib\net451\System.Data.SQLite.EF6.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq, Version=1.0.105.0, Culture=neutral, PublicKeyToken=db937bc2d44ff139, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SQLite.Linq.1.0.105.0\lib\net451\System.Data.SQLite.Linq.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationProvider" />
+    <Reference Include="WindowsBase" />
+    <Reference Include="WindowsFormsIntegration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GUI\AboutBoxForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\AboutBoxForm.Designer.cs">
+      <DependentUpon>AboutBoxForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\BoundaryEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\BoundaryEdit.Designer.cs">
+      <DependentUpon>BoundaryEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\BoundaryTypeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\BoundaryTypeForm.Designer.cs">
+      <DependentUpon>BoundaryTypeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\ClientCardForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\ClientCardForm.Designer.cs">
+      <DependentUpon>ClientCardForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\DiagnosisEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\DiagnosisEditor.Designer.cs">
+      <DependentUpon>DiagnosisEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\DiagnosisForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\DiagnosisForm.Designer.cs">
+      <DependentUpon>DiagnosisForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\FuzzyVarForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\FuzzyVarForm.Designer.cs">
+      <DependentUpon>FuzzyVarForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\KnowledgeBased.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\KnowledgeBased.Designer.cs">
+      <DependentUpon>KnowledgeBased.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Lekarstvinie_sredstvo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Lekarstvinie_sredstvo.Designer.cs">
+      <DependentUpon>Lekarstvinie_sredstvo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\LingVar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\LingVar.Designer.cs">
+      <DependentUpon>LingVar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\PatientEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\PatientEdit.Designer.cs">
+      <DependentUpon>PatientEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\PatientForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\PatientForm.Designer.cs">
+      <DependentUpon>PatientForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Prescribed_medications.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Prescribed_medications.Designer.cs">
+      <DependentUpon>Prescribed_medications.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\QuantForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\QuantForm.Designer.cs">
+      <DependentUpon>QuantForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\RegistrationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\RegistrationForm.Designer.cs">
+      <DependentUpon>RegistrationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\SymptomEditing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\SymptomEditing.Designer.cs">
+      <DependentUpon>SymptomEditing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\TypeEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\TypeEdit.Designer.cs">
+      <DependentUpon>TypeEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\TypeMFform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\TypeMFform.Designer.cs">
+      <DependentUpon>TypeMFform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UserControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\UserControl.Designer.cs">
+      <DependentUpon>UserControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\UserEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\UserEdit.Designer.cs">
+      <DependentUpon>UserEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="GUI\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\Antecedent.cs" />
+    <Compile Include="src\BoundaryType.cs" />
+    <Compile Include="src\DatabaseManager.cs" />
+    <Compile Include="src\Diagnosis.cs" />
+    <Compile Include="src\FuzzyVariable.cs" />
+    <Compile Include="src\GraphicOnFrom.cs" />
+    <Compile Include="src\GroupUsers.cs" />
+    <Compile Include="src\Log.cs" />
+    <Compile Include="src\LogicOutput.cs" />
+    <Compile Include="src\MFuncParams.cs" />
+    <Compile Include="src\Patient.cs" />
+    <Compile Include="src\Quantifier.cs" />
+    <Compile Include="src\Rule.cs" />
+    <Compile Include="src\Settings.cs" />
+    <Compile Include="src\Symptom.cs" />
+    <Compile Include="src\TypeMFunc.cs" />
+    <Compile Include="src\User.cs" />
+    <EmbeddedResource Include="GUI\AboutBoxForm.resx">
+      <DependentUpon>AboutBoxForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\BoundaryEdit.resx">
+      <DependentUpon>BoundaryEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\BoundaryTypeForm.resx">
+      <DependentUpon>BoundaryTypeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\ClientCardForm.resx">
+      <DependentUpon>ClientCardForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\DiagnosisEditor.resx">
+      <DependentUpon>DiagnosisEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\DiagnosisForm.resx">
+      <DependentUpon>DiagnosisForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\FuzzyVarForm.resx">
+      <DependentUpon>FuzzyVarForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\KnowledgeBased.resx">
+      <DependentUpon>KnowledgeBased.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Lekarstvinie_sredstvo.resx">
+      <DependentUpon>Lekarstvinie_sredstvo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\LingVar.resx">
+      <DependentUpon>LingVar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\PatientEdit.resx">
+      <DependentUpon>PatientEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\PatientForm.resx">
+      <DependentUpon>PatientForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Prescribed_medications.resx">
+      <DependentUpon>Prescribed_medications.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\QuantForm.resx">
+      <DependentUpon>QuantForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\RegistrationForm.resx">
+      <DependentUpon>RegistrationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\SymptomEditing.resx">
+      <DependentUpon>SymptomEditing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\TypeEdit.resx">
+      <DependentUpon>TypeEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\TypeMFform.resx">
+      <DependentUpon>TypeMFform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UserControl.resx">
+      <DependentUpon>UserControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\UserEdit.resx">
+      <DependentUpon>UserEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="GUI\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="ClassDiagramApp.cd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="res\AvaAdmin.png" />
+    <Content Include="res\AvaExpert.png" />
+    <Content Include="res\AvaGuest.png" />
+    <Content Include="res\AvaUser.png" />
+    <Content Include="res\bgAbout.jpg" />
+    <Content Include="res\GaussMF.png" />
+    <Content Include="res\TglMF.png" />
+    <Content Include="res\TpzMF.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\System.Data.SQLite.Core.1.0.105.0\build\net451\System.Data.SQLite.Core.targets" Condition="Exists('..\packages\System.Data.SQLite.Core.1.0.105.0\build\net451\System.Data.SQLite.Core.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\System.Data.SQLite.Core.1.0.105.0\build\net451\System.Data.SQLite.Core.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.Data.SQLite.Core.1.0.105.0\build\net451\System.Data.SQLite.Core.targets'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

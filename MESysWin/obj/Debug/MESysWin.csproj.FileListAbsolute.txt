@@ -1,0 +1,115 @@
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\bin\Debug\MESysWin.exe.config
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\bin\Debug\MESysWin.exe
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\bin\Debug\MESysWin.pdb
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\bin\Debug\EntityFramework.dll
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\bin\Debug\System.Data.SQLite.dll
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\bin\Debug\EntityFramework.xml
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\bin\Debug\System.Data.SQLite.xml
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\obj\Debug\MESysWin.GUI.AboutBoxForm.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\obj\Debug\MESysWin.GUI.BoundaryEdit.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\obj\Debug\MESysWin.GUI.BoundaryTypeForm.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\obj\Debug\MESysWin.GUI.DiagnosisEditor.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\obj\Debug\MESysWin.GUI.DiagnosisForm.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\obj\Debug\MESysWin.GUI.FuzzyVarForm.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\obj\Debug\MESysWin.GUI.KnowledgeBased.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\obj\Debug\MESysWin.GUI.LingVar.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\obj\Debug\MESysWin.GUI.LoginForm.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\obj\Debug\MESysWin.MainForm.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\obj\Debug\MESysWin.GUI.QuantForm.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\obj\Debug\MESysWin.GUI.SymptomEditing.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\obj\Debug\MESysWin.GUI.TypeEdit.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\obj\Debug\MESysWin.GUI.TypeMFform.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\obj\Debug\MESysWin.GUI.UserControl.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\obj\Debug\MESysWin.GUI.UserEdit.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\obj\Debug\MESysWin.Properties.Resources.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\obj\Debug\MESysWin.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\obj\Debug\MESysWin.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\obj\Debug\MESysWin.csproj.CopyComplete
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\obj\Debug\MESysWin.exe
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\obj\Debug\MESysWin.pdb
+C:\Users\andre\source\repos\Medical-Expert-System-master\MESysWin\obj\Debug\MESysWin.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\bin\Debug\MESysWin.exe.config
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\bin\Debug\MESysWin.exe
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\bin\Debug\MESysWin.pdb
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\bin\Debug\EntityFramework.dll
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\bin\Debug\System.Data.SQLite.dll
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\bin\Debug\EntityFramework.xml
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\bin\Debug\System.Data.SQLite.xml
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\obj\Debug\MESysWin.GUI.AboutBoxForm.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\obj\Debug\MESysWin.GUI.BoundaryEdit.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\obj\Debug\MESysWin.GUI.BoundaryTypeForm.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\obj\Debug\MESysWin.GUI.ClientCardForm.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\obj\Debug\MESysWin.GUI.DiagnosisEditor.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\obj\Debug\MESysWin.GUI.DiagnosisForm.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\obj\Debug\MESysWin.GUI.FuzzyVarForm.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\obj\Debug\MESysWin.GUI.KnowledgeBased.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\obj\Debug\MESysWin.GUI.LingVar.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\obj\Debug\MESysWin.GUI.LoginForm.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\obj\Debug\MESysWin.MainForm.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\obj\Debug\MESysWin.GUI.PatientEdit.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\obj\Debug\MESysWin.GUI.PatientForm.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\obj\Debug\MESysWin.GUI.QuantForm.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\obj\Debug\MESysWin.GUI.SymptomEditing.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\obj\Debug\MESysWin.GUI.TypeEdit.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\obj\Debug\MESysWin.GUI.TypeMFform.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\obj\Debug\MESysWin.GUI.UserControl.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\obj\Debug\MESysWin.GUI.UserEdit.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\obj\Debug\MESysWin.Properties.Resources.resources
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\obj\Debug\MESysWin.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\obj\Debug\MESysWin.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\obj\Debug\MESysWin.csproj.CopyComplete
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\obj\Debug\MESysWin.exe
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\obj\Debug\MESysWin.pdb
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\obj\Debug\MESysWin.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Medical-Expert-System-master — копия\MESysWin\obj\Debug\MESysWin.GUI.RegistrationForm.resources
+C:\Users\andre\source\repos\SPPVR\MESysWin\bin\Debug\MESysWin.exe.config
+C:\Users\andre\source\repos\SPPVR\MESysWin\bin\Debug\MESysWin.exe
+C:\Users\andre\source\repos\SPPVR\MESysWin\bin\Debug\MESysWin.pdb
+C:\Users\andre\source\repos\SPPVR\MESysWin\bin\Debug\EntityFramework.dll
+C:\Users\andre\source\repos\SPPVR\MESysWin\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\andre\source\repos\SPPVR\MESysWin\bin\Debug\System.Data.SQLite.dll
+C:\Users\andre\source\repos\SPPVR\MESysWin\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\andre\source\repos\SPPVR\MESysWin\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\andre\source\repos\SPPVR\MESysWin\bin\Debug\EntityFramework.xml
+C:\Users\andre\source\repos\SPPVR\MESysWin\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\andre\source\repos\SPPVR\MESysWin\bin\Debug\System.Data.SQLite.xml
+C:\Users\andre\source\repos\SPPVR\MESysWin\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\andre\source\repos\SPPVR\MESysWin\obj\Debug\MESysWin.GUI.AboutBoxForm.resources
+C:\Users\andre\source\repos\SPPVR\MESysWin\obj\Debug\MESysWin.GUI.BoundaryEdit.resources
+C:\Users\andre\source\repos\SPPVR\MESysWin\obj\Debug\MESysWin.GUI.BoundaryTypeForm.resources
+C:\Users\andre\source\repos\SPPVR\MESysWin\obj\Debug\MESysWin.GUI.ClientCardForm.resources
+C:\Users\andre\source\repos\SPPVR\MESysWin\obj\Debug\MESysWin.GUI.DiagnosisEditor.resources
+C:\Users\andre\source\repos\SPPVR\MESysWin\obj\Debug\MESysWin.GUI.DiagnosisForm.resources
+C:\Users\andre\source\repos\SPPVR\MESysWin\obj\Debug\MESysWin.GUI.FuzzyVarForm.resources
+C:\Users\andre\source\repos\SPPVR\MESysWin\obj\Debug\MESysWin.GUI.KnowledgeBased.resources
+C:\Users\andre\source\repos\SPPVR\MESysWin\obj\Debug\MESysWin.GUI.Lekarstvinie_sredstvo.resources
+C:\Users\andre\source\repos\SPPVR\MESysWin\obj\Debug\MESysWin.GUI.LingVar.resources
+C:\Users\andre\source\repos\SPPVR\MESysWin\obj\Debug\MESysWin.MainForm.resources
+C:\Users\andre\source\repos\SPPVR\MESysWin\obj\Debug\MESysWin.GUI.PatientEdit.resources
+C:\Users\andre\source\repos\SPPVR\MESysWin\obj\Debug\MESysWin.GUI.PatientForm.resources
+C:\Users\andre\source\repos\SPPVR\MESysWin\obj\Debug\MESysWin.GUI.QuantForm.resources
+C:\Users\andre\source\repos\SPPVR\MESysWin\obj\Debug\MESysWin.GUI.RegistrationForm.resources
+C:\Users\andre\source\repos\SPPVR\MESysWin\obj\Debug\MESysWin.GUI.SymptomEditing.resources
+C:\Users\andre\source\repos\SPPVR\MESysWin\obj\Debug\MESysWin.GUI.TypeEdit.resources
+C:\Users\andre\source\repos\SPPVR\MESysWin\obj\Debug\MESysWin.GUI.TypeMFform.resources
+C:\Users\andre\source\repos\SPPVR\MESysWin\obj\Debug\MESysWin.GUI.UserControl.resources
+C:\Users\andre\source\repos\SPPVR\MESysWin\obj\Debug\MESysWin.GUI.UserEdit.resources
+C:\Users\andre\source\repos\SPPVR\MESysWin\obj\Debug\MESysWin.Properties.Resources.resources
+C:\Users\andre\source\repos\SPPVR\MESysWin\obj\Debug\MESysWin.GUI.LoginForm.resources
+C:\Users\andre\source\repos\SPPVR\MESysWin\obj\Debug\MESysWin.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\SPPVR\MESysWin\obj\Debug\MESysWin.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\SPPVR\MESysWin\obj\Debug\MESysWin.csproj.CopyComplete
+C:\Users\andre\source\repos\SPPVR\MESysWin\obj\Debug\MESysWin.exe
+C:\Users\andre\source\repos\SPPVR\MESysWin\obj\Debug\MESysWin.pdb
+C:\Users\andre\source\repos\SPPVR\MESysWin\obj\Debug\MESysWin.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\SPPVR\MESysWin\obj\Debug\MESysWin.GUI.Prescribed_medications.resources
